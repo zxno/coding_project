@@ -1,4 +1,3 @@
-<!--This is the place we'll code the website-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -44,3 +43,6 @@
 	</h2>
 
 	</article>
+<footer>
+	<p> Copyright Temi and Zino </p>
+</footer>
